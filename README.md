@@ -41,6 +41,7 @@ To run this project locally, follow these steps:
  cd tic-tac-toe
 3. Open index.html in your preferred web browser.
 Usage
+ <br>
   1. Open the game in your browser.
   <br>
   2. Click on the grid to place your X or O.
@@ -50,6 +51,7 @@ Usage
   4. The game will display a message when one player wins or if the game ends in a draw.
   <br>
   5. Click the "Reset" button to start a new game.
+   <br>
 
 4.Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repo and submit a pull request.
