@@ -41,16 +41,20 @@ To run this project locally, follow these steps:
  cd tic-tac-toe
 3. Open index.html in your preferred web browser.
 Usage
-  1.Open the game in your browser.
-  2.Click on the grid to place your X or O.
-  3.The game will alternate turns between Player 1 (X) and Player 2 (O).
-  4.The game will display a message when one player wins or if the game ends in a draw.
-  5.Click the "Reset" button to start a new game.
+  1. Open the game in your browser.
+  <br>
+  2. Click on the grid to place your X or O.
+    <br>
+  3. The game will alternate turns between Player 1 (X) and Player 2 (O).
+  <br>
+  4. The game will display a message when one player wins or if the game ends in a draw.
+  <br>
+  5. Click the "Reset" button to start a new game.
 
 4.Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repo and submit a pull request.
 
-4.License
+5.License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Feel free to reach out if you have any questions or feedback. Enjoy playing Tic-Tac-Toe
