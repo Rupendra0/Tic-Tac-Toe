@@ -14,7 +14,7 @@ Welcome to the Tic-Tac-Toe game! This is a simple implementation of the classic 
 
 ## Demo
 
-You can check out the live demo of the game [here](link-to-your-demo).
+You can check out the live demo of the game [here](https://rupendra0-tic-tac-toe.netlify.app/).
 
 ## Features
 
